@@ -27,4 +27,8 @@ sysinfo.txt
 
 # Builds
 *.apk
+<<<<<<< HEAD
 *.unitypackage
+=======
+*.unitypackage
+>>>>>>> cb39010b76839addd7dc59c2ef1c9e1a285aeac6
